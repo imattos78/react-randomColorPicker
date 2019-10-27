@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-randomColorPicker/static/css/main.99192f1b.chunk.css",
+    "main.js": "/react-randomColorPicker/static/js/main.24683f83.chunk.js",
+    "main.js.map": "/react-randomColorPicker/static/js/main.24683f83.chunk.js.map",
+    "runtime-main.js": "/react-randomColorPicker/static/js/runtime-main.c311742a.js",
+    "runtime-main.js.map": "/react-randomColorPicker/static/js/runtime-main.c311742a.js.map",
+    "static/js/2.ce145b11.chunk.js": "/react-randomColorPicker/static/js/2.ce145b11.chunk.js",
+    "static/js/2.ce145b11.chunk.js.map": "/react-randomColorPicker/static/js/2.ce145b11.chunk.js.map",
+    "index.html": "/react-randomColorPicker/index.html",
+    "precache-manifest.9bb34fe490cf697f63f2803d1d4a792c.js": "/react-randomColorPicker/precache-manifest.9bb34fe490cf697f63f2803d1d4a792c.js",
+    "service-worker.js": "/react-randomColorPicker/service-worker.js",
+    "static/css/main.99192f1b.chunk.css.map": "/react-randomColorPicker/static/css/main.99192f1b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c311742a.js",
+    "static/js/2.ce145b11.chunk.js",
+    "static/css/main.99192f1b.chunk.css",
+    "static/js/main.24683f83.chunk.js"
+  ]
+}
